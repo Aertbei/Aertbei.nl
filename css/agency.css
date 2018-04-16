@@ -13,6 +13,9 @@ body {
 .text-primary {
   color: #cc0000;
 }
+.text-white {
+  color: #ffffff;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
